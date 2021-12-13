@@ -8,7 +8,7 @@ The sampling rate used was 1M samples per sec. If it is not the case, it is ment
 
 More details can be found in two of our publications [1] and [2]. Please always refer to these when using our dataset.
 
-[The dataset can be downloaded here.](https://drive.google.com/drive/u/1/folders/1R9cbIeha_k_YHEK6ZSuZ0irrSljkPLOT)
+[The dataset can be downloaded here.](https://cloud.ilabt.imec.be/index.php/s/qrJCWgzQaGPfHPr)
 
 ## File naming convention
 The .bin file naming convention is as follows: 
