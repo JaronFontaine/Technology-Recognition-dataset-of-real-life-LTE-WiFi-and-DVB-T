@@ -4,6 +4,9 @@ Dataset with IQ signals captured from multiple Wireless technologies (LTE, Wi-Fi
 ## Dataset description
 This dataset contains IQ samples captured over-the-air in six different locations in Gent, Belgium (UZ, Reep, Rabot, Merelbeke, iGent and Gentbrugge).
 
+Each location has unique data characteristics (e.g. different signal strength and noise levels) due to different physical signal propagations. As an example, these differences in two locations (top two and bottom two rows) are displayed on the spectrograms below:
+![spectrograms different locations](data_characteristics.png)
+
 The sampling rate used was 1M samples per sec. If it is not the case, it is mentioned in the file name. 
 
 More details can be found in two of our publications [1] and [2]. Please always refer to these when using our dataset.
