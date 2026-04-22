@@ -38,3 +38,6 @@ An example script (script_for_Accessing_bin_files.m) is provided to process the 
 
 ## Contact
 If you need any further details about the dataset, then you can contact at jaron.fontaine@ugent.be or adnan.shahid@ugent.be
+
+## License
+https://creativecommons.org/licenses/by-nc-sa/4.0/
